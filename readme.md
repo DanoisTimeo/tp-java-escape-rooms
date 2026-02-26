@@ -1,6 +1,7 @@
+# Danois Timéo B3 DEV Epsi Nantes
 # TP Spring Core – IoC & DI
 
-Exercice 5 : Escape Rooms
+Exercice 4 : Escape Rooms
 
 L’objectif est de mettre en application les concepts d’injection de dépendance et d’inversion de contrôle avec Spring.
 
